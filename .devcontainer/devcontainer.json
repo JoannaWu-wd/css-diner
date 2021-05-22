@@ -1,3 +1,14 @@
 {
-   "extensions": ["codespaces-contrib.codeswing"]
+"extensions": [
+	"codespaces-contrib.codeswing",
+	"dbaeumer.vscode-eslint",
+	"mongodb.mongodb-vscode"
+],
+"dockerComposeFile": "docker-compose.yml",
+"service": "app",
+"workspaceFolder": "/workspace",
+"settings": {
+	"terminal.integrated.shell.linux": "/bin/bash"
+},
+"remoteUser": "node"
 }
