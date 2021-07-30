@@ -10,7 +10,7 @@ This repo provides an example of how Codespaces + [CodeSwing](https://aka.ms/cod
 1. Notice that the editor environment is automatically optimized for working on this project 👍
 1. Interact with the CSS Diner game, and see how it's fully interactive! 🚀
 1. Follow the instructions provided by the swing's coding prompts, and see if you can complete the game 🔥
-
+ertyeeee
 ## References
 
 1. [Codespaces](https://github.com/features/codespaces) - On-demand developer environments, powered by the cloud ☁️
